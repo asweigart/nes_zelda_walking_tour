@@ -38,6 +38,8 @@ There are seven colors used on the overworld map (though the RGB values may not 
 * (252, 216, 168)  tan
 * (0, 0, 0)  black
 
+The actual way that the NES Legend of Zelda game stored map data is much more compressed here. Each room had two color schemes for the bordering tiles and the center tiles, and each room was made up of preset columns of tiles. (That is, brown bushes and green bushes were the same sprite but with different color schemes applied.) This compressed much more than having each room be a 16 x 11 grid of tiles.
+
 Overworld Map Tiles (see labeled_overworldtiles.png for key):
 
 
