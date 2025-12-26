@@ -18,6 +18,8 @@ classifiers = [
 ]
 dependencies = ['pygame']
 
+[tool.setuptools.package-data]
+nes_zelda_walking_tour = ["*.png", "**/*.png"]
 
 [project.urls]
 Homepage = "https://github.com/asweigart/nes_zelda_map_data"
