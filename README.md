@@ -4,13 +4,13 @@ A Pygame program to let you wander the NES Legend of Zelda overworld map.
 
 (This was derived from an old 2012 project, but I wanted a version that was easy to install with pip.)
 
-![Alt text](images/screenshot1.webp)
+![Alt text](screenshot1.webp)
 
-![Alt text](images/screenshot2.webp)
+![Alt text](screenshot2.webp)
 
-![Alt text](images/screenshot3.webp)
+![Alt text](screenshot3.webp)
 
-![Alt text](images/screenshot4.webp)
+![Alt text](screenshot4.webp)
 
 
 ## Installation
